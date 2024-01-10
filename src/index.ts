@@ -20,3 +20,11 @@ console.log(names)
 const ages = ["jazeera",1,true]
 
 console.log(ages)
+
+
+const user: {firstName:string, age:20, id:number}={
+    firstName:"jazeera",
+    age:20,
+    id:1
+}
+console.log(user);
