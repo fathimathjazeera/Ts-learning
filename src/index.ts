@@ -28,3 +28,20 @@ const user: {firstName:string, age:20, id:number}={
     id:1
 }
 console.log(user);
+
+const last={
+    firstname:"jz"
+}
+
+
+console.log(last)
+
+
+
+const addNumber= (a:number,b:number)=>{
+return "hello"
+}
+
+
+
+ console.log(addNumber(1,2))

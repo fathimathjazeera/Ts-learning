@@ -16,3 +16,11 @@ const user = {
     id: 1
 };
 console.log(user);
+const last = {
+    firstname: "jz"
+};
+console.log(last);
+const addNumber = (a, b) => {
+    return "hello";
+};
+console.log(addNumber(1, 2));
